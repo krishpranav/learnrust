@@ -33,3 +33,13 @@ jobs:
       run: |
         cd datatypes/
         cargo test --verbose
+
+    - name: Build variables
+      run: |
+        cd datatypes/
+        cargo build --verbose
+    
+    - name: Test veriables
+      run: |
+        cd datatypes/
+        cargo test --verbose
