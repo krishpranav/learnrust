@@ -133,3 +133,13 @@ jobs:
       run: |
         cd errorhandling/
         cargo test --verbose
+
+    - name: Build userinput
+      run: |
+        cd userinput/
+        cargo build --verbose
+    
+    - name: Test userinput
+      run: |
+        cd userinput/
+        cargo test --verbose

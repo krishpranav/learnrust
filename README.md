@@ -13,7 +13,7 @@ A repo for learning rust
 - [`enums`](enums) get to know what is enums and how to use it.
 - [`vectors`](vectors) vectors
 - [`errorhandling`](errorhandling) learn to handle errors to become a pro :) 
-
+- [`userinput`](userinput) get data from users 
 
 ## Contributors:
 - [krishpranav](https://github.com/krishpranav)
