@@ -83,3 +83,13 @@ jobs:
       run: |
         cd functions/
         cargo test --verbose
+
+    - name: Build arrays
+      run: |
+        cd arrays/
+        cargo build --verbose
+
+    - name: Test arrays
+      run: |
+        cd arrays/
+        cargo test --verbose
