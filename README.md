@@ -16,6 +16,7 @@ A repo for learning rust
 - [`vectors`](vectors) vectors
 - [`errorhandling`](errorhandling) learn to handle errors to become a pro :) 
 - [`userinput`](userinput) get data from users 
+- [`filehandling`](filehandling) filehandling functions
 
 ## Contributors:
 - [krishpranav](https://github.com/krishpranav)
