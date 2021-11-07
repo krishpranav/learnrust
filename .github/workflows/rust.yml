@@ -94,12 +94,12 @@ jobs:
         cd arrays/
         cargo test --verbose
 
-    - name: Build ownertypes
+    - name: Build ownerships
       run: |
-        cd ownertypes
+        cd ownerships/
         cargo build --verbose 
     
-    - name: Test ownertypes
+    - name: Test ownerships
       run: |
-        cd ownertypes
+        cd ownerships/
         cargo test --verbose

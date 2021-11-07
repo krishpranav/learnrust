@@ -1,4 +1,4 @@
-## Ownertypes:
+## Ownerships:
 
 - main.rs
 
