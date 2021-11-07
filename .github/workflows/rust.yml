@@ -143,3 +143,13 @@ jobs:
       run: |
         cd userinput/
         cargo test --verbose
+    
+    - name: Build filehandling
+      run: |
+        cd filehandling/
+        cargo build --verbose
+    
+    - name: Test filehandling
+      run: |
+        cd filehandling/
+        cargo test --verbose
