@@ -103,3 +103,13 @@ jobs:
       run: |
         cd ownerships/
         cargo test --verbose
+    
+    - name: Build enums
+      run: |
+        cd enums/
+        cargo build --verbose
+    
+    - name: Test enums
+      run: |
+        cd enums/
+        cargo test --verbose
