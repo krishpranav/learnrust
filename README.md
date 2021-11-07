@@ -25,8 +25,3 @@ A repo for learning rust
 
 ## Contribution & Pull Request:
 - [learnrust](https://github.com/krishpranav/learnrust) is a open source repo you'r contribution are always welcome :)
-
-## Social Media:
-- [github](https://github.com/krishpranav)
-- [twitter](https://twitter.com/krishpranav5)
-- [linkedin](https://linkedin.com/in/krishpranav)
