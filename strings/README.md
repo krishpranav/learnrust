@@ -14,7 +14,7 @@ fn main() {
 }
 ```
 
-- illustration
+- Illustration
 ```rust
 fn main() {
     /* store names inside name */
@@ -25,6 +25,18 @@ fn main() {
     println!("{}", name);
 }
 ```
+
+- Illustration: Format macro
+```rust
+fn main() {
+    let n1 = "Name".to_string();
+    let n2 = "One".to_string();
+
+    let n3 = format!("{} {}", n1, n2);
+    println!("{}", n3);
+}
+```
+
 
 ```
 $ cargo run
