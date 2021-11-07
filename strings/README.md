@@ -1,5 +1,5 @@
 ## Strings:
-- storing texts or variables is known as string we use the keyword ```rust let ``` in rust
+- storing texts or variables is known as string we use the keyword ```let``` in rust
 
 - main.rs
 
