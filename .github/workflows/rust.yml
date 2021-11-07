@@ -43,3 +43,13 @@ jobs:
       run: |
         cd datatypes/
         cargo test --verbose
+    
+    - name: Build consts
+      run: |
+        cd consts/
+        cargo build --verbose
+      
+    - name: Test consts
+      run: |
+        cd consts/
+        cargo test --verbose
