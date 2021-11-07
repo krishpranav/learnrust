@@ -63,3 +63,13 @@ jobs:
       run: |
         cd strings/
         cargo test --verbose
+    
+    - name: Build loops
+      run: |
+        cd loops/
+        cargo build --verbose
+    
+    - name: Test loops
+      run: |
+        cd loops/
+        cargo test --verbose
