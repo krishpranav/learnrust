@@ -1,6 +1,8 @@
 # learnrust
 A repo for learning rust 
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://forthebadge.com)
+
 ## Topics:
 - [`print`](print) basic print function.
 - [`datatypes`](datatypes) get to know what is datatypes.
@@ -18,5 +20,13 @@ A repo for learning rust
 ## Contributors:
 - [krishpranav](https://github.com/krishpranav)
 
-## Licensing
+## Licensing:
 - learnrust is licensed under [`Apache-2.0 License`](LICENSE)
+
+## Contribution & Pull Request:
+- [learnrust](https://github.com/krishpranav/learnrust) is a open source repo you'r contribution are always welcome :)
+
+## Social Media:
+- [github](https://github.com/krishpranav)
+- [twitter](https://twitter.com/krishpranav5)
+- [linkedin](https://linkedin.com/in/krishpranav)
