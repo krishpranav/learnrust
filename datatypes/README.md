@@ -1,0 +1,5 @@
+## Basic DataTypes:
+
+```
+$ cargo run
+```

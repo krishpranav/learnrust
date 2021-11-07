@@ -14,12 +14,22 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Build Print
+    - name: Build print
       run: |
         cd print/
         cargo build --verbose
         
-    - name: Test Print
+    - name: Test print
       run: |
         cd print/
+        cargo test --verbose
+
+    - name: Build datatypes
+      run: |
+        cd datatypes/
+        cargo build --verbose
+    
+    - name: Test datatypes
+      run: |
+        cd datatypes/
         cargo test --verbose
