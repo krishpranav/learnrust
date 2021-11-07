@@ -16,7 +16,7 @@ fn main() {
 - numbers (int)
 ```rust
 fn main() {
-    /* for storing or declaring age use u32 */
+    /* for storing or declaring int use u32 */
     let age:u32 = 20; 
 
     /* printing the data that we stored */
