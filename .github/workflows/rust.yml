@@ -73,3 +73,13 @@ jobs:
       run: |
         cd loops/
         cargo test --verbose
+    
+    - name: Build functions
+      run: |
+        cd functions/
+        cargo build --verbose
+    
+    - name: Test functions
+      run: |
+        cd functions/
+        cargo test --verbose
