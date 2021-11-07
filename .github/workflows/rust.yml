@@ -113,3 +113,13 @@ jobs:
       run: |
         cd enums/
         cargo test --verbose
+
+    - name: Build vectors
+      run: |
+        cd vectors/
+        cargo build --verbose
+
+    - name: Test vectors
+      run: |
+        cd vectors/
+        cargo test --verbose
