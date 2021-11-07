@@ -8,6 +8,7 @@ A repo for learning rust
 - [`consts`](consts) consts and strings
 - [`strings`](strings) get to know what is strings and how to use it
 - [`functions`](functions) what is functions? get to know
+- [`arrays`](arrays) arrays 
 
 ## Contributors:
 - [krishpranav](https://github.com/krishpranav)
