@@ -53,3 +53,13 @@ jobs:
       run: |
         cd consts/
         cargo test --verbose
+
+    - name: Build strings
+      run: |
+        cd strings/
+        cargo build --verbose 
+    
+    - name: Test strings
+      run: |
+        cd strings/
+        cargo test --verbose
