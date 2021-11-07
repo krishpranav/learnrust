@@ -93,3 +93,13 @@ jobs:
       run: |
         cd arrays/
         cargo test --verbose
+
+    - name: Build ownertypes
+      run: |
+        cd ownertypes
+        cargo build --verbose 
+    
+    - name: Test ownertypes
+      run: |
+        cd ownertypes
+        cargo test --verbose
