@@ -12,6 +12,7 @@ A repo for learning rust
 - [`ownerships`](arrays) arrays.
 - [`enums`](enums) get to know what is enums and how to use it.
 - [`vectors`](vectors) vectors
+- [`errorhandling`](errorhandling) learn to handle errors to become a pro :) 
 
 
 ## Contributors:

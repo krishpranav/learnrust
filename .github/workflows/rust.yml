@@ -123,3 +123,13 @@ jobs:
       run: |
         cd vectors/
         cargo test --verbose
+
+    - name: Build errorhandling
+      run: |
+        cd errorhandling/
+        cargo build --verbose
+
+    - name: Test errorhandling
+      run: |
+        cd errorhandling/
+        cargo test --verbose
