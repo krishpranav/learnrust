@@ -17,6 +17,8 @@ A repo for learning rust
 - [`errorhandling`](errorhandling) learn to handle errors to become a pro :) 
 - [`userinput`](userinput) get data from users 
 - [`filehandling`](filehandling) filehandling functions
+- [`advfunctions`](advfunctions) call functions from another file :) 
+
 
 ## Contributors:
 - [krishpranav](https://github.com/krishpranav)
